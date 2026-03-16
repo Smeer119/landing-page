@@ -18,23 +18,10 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: 'B-School by Marie Forleo | Build a Business You\'re Proud Of',
   description: 'B-School is an 8-week online program teaching you how to build a business you love. Join 80,000+ entrepreneurs in 150+ countries.',
-  generator: 'v0.app',
+
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/icon.svg',
+    apple: '/icon.svg',
   },
 }
 
