@@ -20,8 +20,8 @@ export const metadata: Metadata = {
   description: 'B-School is an 8-week online program teaching you how to build a business you love. Join 80,000+ entrepreneurs in 150+ countries.',
 
   icons: {
-    icon: '/icon.svg',
-    apple: '/icon.svg',
+    icon: '/favicon-custom.svg',
+    apple: '/favicon-custom.svg',
   },
 }
 
